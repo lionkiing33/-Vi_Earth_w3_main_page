@@ -3,7 +3,7 @@
 
 ![KakaoTalk_20200921_204812795](https://user-images.githubusercontent.com/54584364/93767406-f2d84900-fc52-11ea-8184-d577714decde.jpg)
 
-[구현 영상] (https://youtu.be/lF-BgLpx5-I)
+[구현 영상] ("https://www.youtube.com/embed/lF-BgLpx5-I")
 
 배경화면 scene이다.
 바이러스 이미지를 각각 다른 속도로 떨어지게 설정하였고 시작시간을 다르게 하여
