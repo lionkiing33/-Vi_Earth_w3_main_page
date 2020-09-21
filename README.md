@@ -2,7 +2,8 @@
 상명대 정보통신공학과 임베디드시스템 3조 Vi Earth - Unity 메인 화면 이펙트 구현
 
 ![KakaoTalk_20200921_204812795](https://user-images.githubusercontent.com/54584364/93767406-f2d84900-fc52-11ea-8184-d577714decde.jpg)
-
+https://www.youtube.com/embed/9CgZFwSuNXo
+[메인 화면 구현 영상]
 
 배경화면 scene이다.
 바이러스 이미지를 각각 다른 속도로 떨어지게 설정하였고 시작시간을 다르게 하여
